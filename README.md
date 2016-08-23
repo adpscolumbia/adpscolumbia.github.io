@@ -14,4 +14,7 @@ To add photos or other media to the homepage, you'll first need to upload the fi
 Simple! But be careful when deleting markup (`<stuff in brackets/>`) because this can change the way the webpage displays.
 
 ### Updating email aliases
-head over to namecheap.com and login. 
+head over to namecheap.com and login.
+
+####*advanced info* for the curious:
+This very simple site is hosted on github.com for free. ADP has registered the domain name at namecheap.com, where we also have a login. The settings for the domain name "adpscolumbia.org" point to github.com servers, which is why the html code you see here loads when you type in `http://adpscolumbia.org`. The `CNAME` file in this repository tells github that the domain name "adpscolumbia.org" is pointing to this code repository.
