@@ -36,6 +36,15 @@
 				font-size:small;
 			}	
 			/*content*/
+			#content{
+				float: right;
+				position: relative;
+				margin-right: 100px;
+				margin-top: -50;
+				height: 350px;
+				width:60%;
+				overflow: scroll;
+			}
 			p{
 				color:white;
 				text-decoration: none;
@@ -50,15 +59,6 @@
 				font-size:small;
 				font-weight: bold;
 
-			}
-			#content{
-				float: right;
-				position: relative;
-				margin-right: 100px;
-				margin-top: -50;
-				height: 350px;
-				width:60%;
-				overflow: scroll;
 			}
 			.hide{
 				display: none;
