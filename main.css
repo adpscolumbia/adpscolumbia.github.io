@@ -200,22 +200,22 @@
 				color: green;
 			}
 			.copyright{
-                border-style: solid;
-                border-color: white;
-                border-right-color: black;
-                border-left-color: black;
-                border-bottom-color: black;
-                border-width: thin;
-                margin-top: 375px;
-                margin-right: 100px;
-                margin-left: 150px;
-                text-align: center;
+                		border-style: solid;
+                		border-color: white;
+                		border-right-color: black;
+                		border-left-color: black;
+                		border-bottom-color: black;
+                		border-width: thin;
+                		margin-top: 375px;
+                		margin-right: 100px;
+                		margin-left: 150px;
+                		text-align: center;
                         }
-            .copyright-text{
-                color: 6c7b8b;
-                font-family: Courier;
-                font-size: 11px;
-            }
-            ::-webkit-scrollbar {
-        	    display: none;
-            }
+            		.copyright-text{
+                		color: 6c7b8b;
+                		font-family: Courier;
+                		font-size: 11px;
+            		}
+            		::-webkit-scrollbar {
+        	    		display: none;
+            		}
