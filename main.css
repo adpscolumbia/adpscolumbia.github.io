@@ -45,21 +45,6 @@
 				width:60%;
 				overflow: scroll;
 			}
-			p{
-				color:white;
-				text-decoration: none;
-				font-family: Courier;
-				font-size:small;
-			}
-			h3{
-				p{
-				color:white;
-				text-decoration: none;
-				font-family: Courier;
-				font-size:small;
-				font-weight: bold;
-
-			}
 			.hide{
 				display: none;
 			}
