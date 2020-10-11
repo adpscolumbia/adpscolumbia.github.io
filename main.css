@@ -34,8 +34,23 @@
 				text-decoration: none;
 				font-family: Courier;
 				font-size:small;
-			}
+			}	
 			/*content*/
+			p{
+				color:white;
+				text-decoration: none;
+				font-family: Courier;
+				font-size:small;
+			}
+			h3{
+				p{
+				color:white;
+				text-decoration: none;
+				font-family: Courier;
+				font-size:small;
+				font-weight: bold;
+
+			}
 			#content{
 				float: right;
 				position: relative;
